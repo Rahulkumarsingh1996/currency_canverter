@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+i{
+    font-size: 20px;
+    opacity: 0.9;
+    padding: 0px 5px;
+}
+h1{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    padding: 20px 0px;
+    font-weight: 700;
+}
+.download{
+    padding: 10px 50px;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 15px;
+    background: #000;
+    color: #fff;
+}
+section{
+    margin-top: 110px;
+}
+.base_curr{
+    width: 85px;
+    padding: 4px 5px;
+    margin: 5px 25px;
+    opacity: 0.9;
+}
+select{
+    width: 85px;
+    padding: 4px 5px;
+    margin: 5px 15px;
+    opacity: 0.9;
+}
+input{
+    padding: 4px 5px;
+    margin: 5px 30px;
+    opacity: 0.9;
+    width: auto;
+}
+label{
+    font-size: 14px;
+    font-weight: 500;
+}
+.convert{
+    background: #000;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 15px;
+}
+#result{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 15px 45px;
+    text-align: center;
+}
+.container-fluid{
+    margin-top: 100px;
+}
+.main-div{
+    background-color: #cbd8e3;
+    /* background-color: #e5f0f9; */
+}
+.bio{
+    line-height: 28px;
+}
