@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Download from "./Download";
 import CurrencyChart from "./CurrencyChart";
-import './Design.css'
+import "./Design.css";
 
 function Home() {
   const [currencies, setCurrencies] = useState([]);
@@ -179,7 +179,3 @@ function Home() {
 }
 
 export default Home;
-
-
-
-

@@ -6,6 +6,7 @@ i{
     font-size: 20px;
     opacity: 0.9;
     padding: 0px 5px;
+    color: darkslategrey;;
 }
 h1{
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
@@ -38,7 +39,7 @@ select{
 }
 input{
     padding: 4px 5px;
-    margin: 5px 30px;
+    margin: 5px 34px;
     opacity: 0.9;
     width: auto;
 }
@@ -64,8 +65,9 @@ label{
     margin-top: 100px;
 }
 .main-div{
-    background-color: #cbd8e3;
-    /* background-color: #e5f0f9; */
+    background-color: #cbd5e5;
+    /* background-color: #bebbf3; */
+    /* background-color: #d6d5f7; */
 }
 .bio{
     line-height: 28px;
